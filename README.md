@@ -1,4 +1,4 @@
-# aadikrishnat.github.io
+# Aadi Krishna Tripathi
 Portfolio
 
 
