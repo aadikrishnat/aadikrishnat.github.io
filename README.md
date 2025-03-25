@@ -1,62 +1,50 @@
 # Aadi Krishna Tripathi
 Portfolio
 
+# 🚀 **Your Name**  
+> Game Developer | Python Enthusiast | Math Geek  
 
-### You like it??
+![Banner](https://source.unsplash.com/1600x400/?technology,dark)  
 
-[howdy](https://github.com/aadikrishnat)
+👋 Hi! I'm **Your Name**, a passionate game developer and programmer. I specialize in **Python**, **Pygame**, and **game engines**. I love solving math problems and building unique game mechanics.
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
+---
 
-Text that is not a quote
+## 🛠 **Projects**
+### 🎮 Shadowfall  
+*Horror game featuring shadow enemies that react to light.*  
+[🔗 GitHub Repo](https://github.com/yourusername/shadowfall) | [🎥 Trailer](https://yourlink.com)
 
-> Text that is a quote
->
+### 💡 Number Hunt  
+*An interactive number guessing game with logical hints.*  
+[🔗 GitHub Repo](https://github.com/yourusername/numberhunt)  
 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+### 🔥 Camp 7  
+*A slasher horror game with multiple endings.*  
+[🔗 GitHub Repo](https://github.com/yourusername/camp7)  
 
-Use `git status` to list all new or modified files that haven't yet been committed.
+---
 
-# Example headings
+## 🎓 **Skills**
+- 🕹 **Game Development:** Pygame, Unity (C#), Godot  
+- 💻 **Programming:** Python, C++, JavaScript  
+- 🧠 **Math & Algorithms:** Problem-solving, Optimization  
+- 🎨 **Design:** Pixel Art, UI/UX  
 
-## Sample Section
+---
 
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+## 🏆 **Achievements**
+- 🥇 **Math Olympiad Qualifier** 🇮🇳  
+- 📜 Built my **own game engine** from scratch  
+- 🎥 Created **YouTube tutorials** on Pygame  
 
-## This heading is not unique in the file
+---
 
-TEXT 1
+## 📫 **Let's Connect!**
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
 
-## This heading is not unique in the file
+---
 
-TEXT 2
-
-# Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
-
-
-# Section Heading
-
-Some body text of this section.
-
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
-
-(… more content…)
-
-[A link to that custom anchor](#my-custom-anchor-point)
+💀 *“Code like a slasher movie – suspenseful, unpredictable, and a bit terrifying.”*  
